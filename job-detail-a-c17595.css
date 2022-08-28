@@ -1,0 +1,1107 @@
+.job-detail-a-c17595-container {
+  min-height: 100vh;
+}
+.job-detail-a-c17595-job-detail-a-c17595 {
+  width: 100%;
+  height: 1583px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 1920px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+  background-color: rgba(240, 240, 240, 1);
+  font-family: 'Times New Roman', Times, serif;
+}
+.job-detail-a-c17595-top-btn {
+  top: 1474px;
+  left: 1792px;
+  width: 51px;
+  height: 47px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-rectangle20 {
+  top: 0px;
+  left: 0px;
+  width: 51px;
+  height: 47px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 5px;
+  margin-bottom: 0;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/playground_assets/rectangle204588-a17f-200h.png");
+  background-position: center;
+}
+.job-detail-a-c17595-text {
+  color: rgb(255, 255, 255);
+  font-family: Times New Roman;
+}
+.job-detail-a-c17595-text001 {
+  top: 1469px;
+  left: 73px;
+  color: rgba(0, 0, 0, 1);
+  width: 1617px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.job-detail-a-c17595-back-btn {
+  top: 1396px;
+  left: 298px;
+  width: 210px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-rectangle22 {
+  top: 0px;
+  left: 0px;
+  width: 210px;
+  height: 40px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 5px;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-text003 {
+  top: 4px;
+  left: 77px;
+  color: rgba(109, 109, 109, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.job-detail-a-c17595-back-btn1 {
+  top: 1396px;
+  left: 298px;
+  width: 210px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-rectangle221 {
+  top: 0px;
+  left: 0px;
+  width: 210px;
+  height: 40px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 5px;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-text005 {
+  top: 4px;
+  left: 77px;
+  color: rgba(109, 109, 109, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.job-detail-a-c17595-apply-now-btn {
+  top: 1396px;
+  left: 73px;
+  width: 210px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-rectangle21 {
+  top: 0px;
+  left: 0px;
+  width: 210px;
+  height: 40px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 5px;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-text007 {
+  top: 4px;
+  left: 45px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.job-detail-a-c17595-job-detail {
+  top: 370px;
+  left: 73px;
+  width: 1315px;
+  height: 947px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-text009 {
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: right;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.job-detail-a-c17595-text059 {
+  left: 238px;
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.job-detail-a-c17595-text107 {
+  top: 230px;
+  left: 237px;
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.job-detail-a-c17595-text108 {
+  font-weight: 700;
+}
+.job-detail-a-c17595-text109 {
+  color: #000000;
+  font-size: 18px;
+  font-family: Frank Ruhl Libre;
+  font-weight: 700;
+  line-height: normal;
+  text-decoration: none;
+}
+.job-detail-a-c17595-text110 {
+  font-weight: 700;
+}
+.job-detail-a-c17595-text111 {
+  font-style: normal;
+  font-weight: 400;
+}
+.job-detail-a-c17595-text112 {
+  font-style: normal;
+  font-weight: 400;
+}
+.job-detail-a-c17595-text113 {
+  font-style: normal;
+  font-weight: 400;
+}
+.job-detail-a-c17595-text114 {
+  font-weight: 700;
+}
+.job-detail-a-c17595-text115 {
+  font-style: normal;
+  font-weight: 400;
+}
+.job-detail-a-c17595-text116 {
+  font-style: normal;
+  font-weight: 400;
+}
+.job-detail-a-c17595-text117 {
+  font-style: normal;
+  font-weight: 400;
+}
+.job-detail-a-c17595-text118 {
+  font-style: normal;
+  font-weight: 400;
+}
+.job-detail-a-c17595-text119 {
+  font-style: normal;
+  font-weight: 400;
+}
+.job-detail-a-c17595-text120 {
+  font-style: normal;
+  font-weight: 400;
+}
+.job-detail-a-c17595-text121 {
+  top: 439px;
+  color: rgb(0, 0, 0);
+  right: 3px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.job-detail-a-c17595-text123 {
+  color: #000000;
+  font-size: 18px;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration: none;
+}
+.job-detail-a-c17595-page-navigator {
+  top: 300px;
+  left: 23px;
+  width: 454px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-text143 {
+  top: 1px;
+  left: 361px;
+  color: rgba(109, 109, 109, 1);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.job-detail-a-c17595-text145 {
+  top: 1px;
+  left: 100px;
+  color: rgba(109, 109, 109, 1);
+  width: 235px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: underline;
+}
+.job-detail-a-c17595-text147 {
+  top: 1px;
+  left: 74px;
+  color: rgba(109, 109, 109, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.job-detail-a-c17595-text148 {
+  top: 1px;
+  color: rgba(109, 109, 109, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: underline;
+}
+.job-detail-a-c17595-text150 {
+  top: 1px;
+  left: 340px;
+  color: rgba(109, 109, 109, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.job-detail-a-c17595-navbar {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 82px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-navbarbg {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 82px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-staff-login-btn {
+  top: 26px;
+  left: 1794px;
+  width: 103px;
+  height: 27px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-bg {
+  top: 0px;
+  left: 0px;
+  width: 103px;
+  height: 27px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 5px;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-text151 {
+  top: 2px;
+  left: 9px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  width: 87px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.job-detail-a-c17595-registration-btn {
+  top: 26px;
+  left: 1668px;
+  width: 115px;
+  height: 27px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-bg1 {
+  top: 0px;
+  left: 0px;
+  width: 115px;
+  height: 27px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 5px;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-text153 {
+  top: 2px;
+  left: 10px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.job-detail-a-c17595-heading {
+  top: 24px;
+  left: 1350px;
+  width: 256px;
+  height: 30px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-search {
+  top: 20px;
+  left: 1046px;
+  width: 291px;
+  height: 40px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-rectangle {
+  top: 0px;
+  left: 0px;
+  width: 291px;
+  height: 40px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 10px;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-text155 {
+  top: 8px;
+  left: 47px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 57px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.job-detail-a-c17595-search-icon {
+  top: 8px;
+  left: 10px;
+  width: 26px;
+  height: 24px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-text157 {
+  top: 28px;
+  left: 1613px;
+  color: rgba(0, 0, 0, 1);
+  width: 37px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.job-detail-a-c17595-text159 {
+  top: 22px;
+  left: 493px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.job-detail-a-c17595-text161 {
+  top: 22px;
+  left: 345px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.job-detail-a-c17595-text163 {
+  top: 22px;
+  left: 185px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.job-detail-a-c17595-text165 {
+  top: 22px;
+  left: 23px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.job-detail-a-c17595-quick-search {
+  top: 82px;
+  left: 0px;
+  width: 1920px;
+  height: 204px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-bg2 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 207px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-keyword {
+  top: 142px;
+  left: 271px;
+  width: 841px;
+  height: 26px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-text167 {
+  left: 782px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: underline;
+}
+.job-detail-a-c17595-text169 {
+  left: 593px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: underline;
+}
+.job-detail-a-c17595-text171 {
+  left: 402px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: underline;
+}
+.job-detail-a-c17595-text173 {
+  left: 144px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: underline;
+}
+.job-detail-a-c17595-text175 {
+  color: rgba(0, 0, 0, 0.699999988079071);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.job-detail-a-c17595-search-button {
+  top: 80px;
+  left: 1595px;
+  width: 248px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-bg3 {
+  top: 0px;
+  left: -1px;
+  width: 249px;
+  height: 40px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 10px;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-text177 {
+  top: 8px;
+  left: 95px;
+  color: rgba(255, 255, 255, 1);
+  width: 57px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.job-detail-a-c17595-job-function-search {
+  top: 80px;
+  left: 1248px;
+  width: 316px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-bg4 {
+  top: 0px;
+  left: 0px;
+  width: 316px;
+  height: 40px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: rgba(51, 51, 51, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 0;
+  border-radius: 10px;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-polygon {
+  top: 15px;
+  right: 15px;
+  width: 17px;
+  height: 11px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-text179 {
+  top: 8px;
+  left: 19px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 196px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.job-detail-a-c17595-location-search {
+  top: 80px;
+  left: 832px;
+  width: 385px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-bg5 {
+  top: 0px;
+  left: 0px;
+  width: 385px;
+  height: 40px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: rgba(51, 51, 51, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 0;
+  border-radius: 10px;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-polygon1 {
+  top: 15px;
+  right: 15px;
+  width: 17px;
+  height: 11px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-text181 {
+  top: 8px;
+  left: 19px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 196px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.job-detail-a-c17595-job-title-search {
+  top: 80px;
+  left: 272px;
+  width: 529px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-bg6 {
+  top: 0px;
+  left: 0px;
+  width: 529px;
+  height: 40px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: rgba(51, 51, 51, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 0;
+  border-radius: 10px;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-search-icon1 {
+  top: 8px;
+  left: 494px;
+  width: 26px;
+  height: 24px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.job-detail-a-c17595-text183 {
+  top: 8px;
+  left: 19px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 196px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.job-detail-a-c17595-text185 {
+  top: 30px;
+  left: 272px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Frank Ruhl Libre;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.job-detail-a-c17595-info-tech-logo {
+  top: 60px;
+  left: 64px;
+  width: 151px;
+  height: 77px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}

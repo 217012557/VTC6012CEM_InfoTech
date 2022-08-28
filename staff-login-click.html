@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+
+<html lang="english">
+
+<head>
+
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+  <title>InfoTech - Staff Login</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="utf-8" />
+  <meta property="twitter:card" content="summary_large_image" />
+  <style data-tag="reset-style-sheet">
+    html {
+      line-height: 1.15;
+    }
+
+    body {
+      margin: 0;
+    }
+
+    * {
+      box-sizing: border-box;
+      border-width: 0;
+      border-style: solid;
+    }
+
+    p,
+    li,
+    ul,
+    pre,
+    div,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      margin: 0;
+      padding: 0;
+    }
+
+    button,
+    input,
+    optgroup,
+    select,
+    textarea {
+      font-family: inherit;
+      font-size: 100%;
+      line-height: 1.15;
+      margin: 0;
+    }
+
+    button,
+    select {
+      text-transform: none;
+    }
+
+    button,
+    [type="button"],
+    [type="reset"],
+    [type="submit"] {
+      -webkit-appearance: button;
+    }
+
+    button::-moz-focus-inner,
+    [type="button"]::-moz-focus-inner,
+    [type="reset"]::-moz-focus-inner,
+    [type="submit"]::-moz-focus-inner {
+      border-style: none;
+      padding: 0;
+    }
+
+    button:-moz-focus,
+    [type="button"]:-moz-focus,
+    [type="reset"]:-moz-focus,
+    [type="submit"]:-moz-focus {
+      outline: 1px dotted ButtonText;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: inherit;
+    }
+
+    input {
+      padding: 2px 4px;
+    }
+
+    img {
+      display: block;
+    }
+
+    html {
+      scroll-behavior: smooth
+    }
+
+    .selector-for-some-widget {
+      box-sizing: content-box;
+    }
+  </style>
+  <style data-tag="default-style-sheet">
+    html {
+      font-family: Inter;
+      font-size: 16px;
+    }
+
+    body {
+      font-weight: 400;
+      font-style: normal;
+      text-decoration: none;
+      text-transform: none;
+      letter-spacing: normal;
+      line-height: 1.15;
+      color: var(--dl-color-gray-black);
+      background-color: var(--dl-color-gray-white);
+    }
+
+    .warningMessage {
+      color: red;
+    }
+  </style>
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300;400;500;700;900&display=swap"
+    data-tag="font" />
+  <link rel="stylesheet" href="./style.css" />
+</head>
+
+<body>
+
+  <!-- Optional JavaScript; choose one of the two! -->
+
+  <!-- Option 1: Bootstrap Bundle with Popper -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"></script>
+
+  <!-- Option 2: Separate Popper and Bootstrap JS -->
+  <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+    -->
+
+  <div>
+    <link href="./staff-login.css" rel="stylesheet" />
+
+    <div class="staff-login-container">
+      <div class="staff-login-staff-login">
+        <img alt="bg4311" src="public/playground_assets/bg4311-9h0b-2000w.png" class="staff-login-bg" />
+        <img alt="InfoTechLogo4311" src="public/playground_assets/infotechlogo4311-4ra-200h.png"
+          class="staff-login-info-tech-logo" />
+        <span class="staff-login-text">
+          <span>Staff Intranet Portal</span>
+        </span>
+
+
+
+        <form class="staff-login-email-input p-4">
+          <div class="form-group">
+            <label for="exampleDropdownFormEmail2">
+              <h4>Email</h4>
+            </label>
+            <input type="email" class="form-control" id="exampleDropdownFormEmail2" placeholder="email@infotech.hk">
+            <div class="warningMessage">
+              <label for="exampleDropdownFormEmail2">
+                <h5>Please insert your email!</h5>
+              </label>
+            </div>
+          </div>
+          <br>
+          <div class="form-group">
+            <label for="exampleDropdownFormPassword2">
+              <h4>Password</h4>
+            </label>
+            <input type="password" class="form-control" id="exampleDropdownFormPassword2" placeholder="Password">
+            <div class="warningMessage">
+              <label for="exampleDropdownFormEmail2">
+                <h5>Please insert your password!</h5>
+              </label>
+            </div>
+          </div>
+          <br>
+          <div class="form-check">
+            <input type="checkbox" class="form-check-input" id="dropdownCheck2">
+            <label class="form-check-label" for="dropdownCheck2">
+              Remember me
+            </label>
+          </div>
+          <br>
+        </form>
+
+        <a href="staff-login-click.html">
+        <div class="staff-login-login-btn btn-primary">
+          <span class="staff-login-text11"><span>Login</span></span>
+        </div></a>
+
+
+
+        <!--           <div class="staff-login-email-input">
+            <span class="staff-login-text02"><span>Email:</span></span>
+            <img
+              alt="Rectangle194314"
+              src="public/playground_assets/rectangle194314-ekkl-200h.png"
+              class="staff-login-rectangle19"
+            />
+          </div>
+
+          <div class="staff-login-password-input">
+            <img
+              alt="Rectangle174314"
+              src="public/playground_assets/rectangle174314-k29-200h.png"
+              class="staff-login-rectangle17"
+            />
+            <span class="staff-login-text04"><span>Password:</span></span>
+          </div> -->
+
+        <div class="staff-login-page-navigator">
+          <span class="staff-login-text06">
+            <span>Staff Intranet Portal</span>
+          </span>
+          <span class="staff-login-text08">&gt;</span>
+          <a href="homepage.html"><span class="staff-login-text09"><span>Home</span></span></a>
+        </div>
+
+        <!--           <div class="staff-login-login-btn btn-primary">
+            <a href=""><span class="staff-login-text11"><span>Login</span></span></a>
+          </div> -->
+
+
+
+        <div class="staff-login-navbar">
+          <img alt="navbarbg4514" src="public/playground_assets/navbarbg4514-lwnq.svg" class="staff-login-navbarbg" />
+
+
+
+
+          <div class="container1">
+            <div class="staff-login-staff-login-btn">
+              <a href="staff-login.html"><button type="button" class="btn btn-primary btn-sm">Staff Login</button></a>
+            </div>
+          </div>
+
+          <div class="container2">
+            <div class="staff-login-registration-btn d-grid gap-2 col-6 mx-auto">
+              <button type="button" class="btn btn-outline-secondary btn-sm">Registration</button>
+            </div>
+          </div>
+          <img alt="Heading47" src="public/playground_assets/heading47-w9vv-200h.png" class="homepage-heading" />
+
+
+
+
+          <!--           <div class="staff-login-staff-login-btn">
+            <img alt="bg4514" src="public/playground_assets/bg4514-du4-200h.png" class="staff-login-bg2" />
+            <span class="staff-login-text13"><span>Staff Login</span></span>
+          </div>
+          <div class="staff-login-registration-btn">
+            <img alt="bg4514" src="public/playground_assets/bg4514-d6xr-200h.png" class="staff-login-bg3" />
+            <span class="staff-login-text15"><span>Registration</span></span>
+          </div>
+ -->
+
+
+
+          <img alt="Heading4514" src="public/playground_assets/heading4514-khyi-200h.png" class="staff-login-heading" />
+
+
+
+
+          <div class="staff-login-search">
+            <div class="column justify-content-start">
+              <div class="w-100">
+                <input type="text" class="form-control" placeholder="Search">
+              </div>
+            </div>
+          </div>
+
+
+          <!--           <div class="staff-login-search">
+            <img alt="Rectangle4514" src="public/playground_assets/rectangle4514-5nkf-200h.png"
+              class="staff-login-rectangle" />
+            <span class="staff-login-text17"><span>Search</span></span>
+            <img alt="SearchIcon4514" src="public/playground_assets/searchicon4514-wg-200h.png"
+              class="staff-login-search-icon" />
+          </div> -->
+
+
+          <span class="staff-login-text19"><a href="f-a-q.html" class="link">FAQ</a></span>
+          <span class="staff-login-text21"><a href="" class="link">About Us</a></span>
+          <span class="staff-login-text23"><a href="" class="link">Employers</a></span>
+          <span class="staff-login-text25"><a href="" class="link">Job Seekers</a></span>
+          <span class="staff-login-text27"><a href="whats-new.html" class="link">What’s New</a></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
